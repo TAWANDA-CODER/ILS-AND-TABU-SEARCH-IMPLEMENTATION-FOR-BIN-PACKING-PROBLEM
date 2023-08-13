@@ -1,0 +1,17 @@
+Waescher_TEST0005	28
+Waescher_TEST0014	23
+Waescher_TEST0022	15
+Waescher_TEST0030	27
+Waescher_TEST0044	14
+Waescher_TEST0049	11
+Waescher_TEST0054	14
+Waescher_TEST0055A	15
+Waescher_TEST0055B	20
+Waescher_TEST0058	20
+Waescher_TEST0065	16
+Waescher_TEST0068	12
+Waescher_TEST0075	13
+Waescher_TEST0082	24
+Waescher_TEST0084	16
+Waescher_TEST0095	16
+Waescher_TEST0097	12
